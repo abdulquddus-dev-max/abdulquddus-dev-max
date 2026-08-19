@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="left" src="./assets/abdulquddus-dev.png" width="140" height="140" alt="Abdulqadoos Al-Shibani"/>
+<img align="left" src="./assets/abdulquddus-dev2.png" width="140" height="140" alt="Abdulqadoos Al-Shibani"/>
 
 <img align="right" src="./assets/illustration.svg" width="230" alt=""/>
 
